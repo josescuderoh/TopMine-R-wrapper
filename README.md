@@ -51,12 +51,12 @@ par_lst = list with more parameters for the algorithm:
 
 ### Reading output files
 
-The implementation by El-Kishky writes several txt files with the results of running the algorithm. Such are the following:
+The implementation by El-Kishky writes several txt files with the results of running the algorithm. Such are located in TopMine/output/outputFiles/:
 
-**TopMine/output/outputFiles/topicalPhrases.txt**: topic phrases extracted.
-**TopMine/output/outputFiles/topPhrases.txt**: most frequent phrases.
-**TopMine/output/outputFiles/topics.txt**: topics to all documents.
-**TopMine/output/outputFiles/corpus.txt**: tidy documents.
+* **topicalPhrases.txt**: topic phrases extracted.
+* **topPhrases.txt**: most frequent phrases.
+* **topics.txt**: topics to all documents.
+* **corpus.txt**: tidy documents.
 
 ## Example
 
