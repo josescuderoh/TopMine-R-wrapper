@@ -2,6 +2,7 @@
 
 This repo contains a wrapper for the Java implementation of the TopMine algorithm created by El-Kishky and available at http://web.engr.illinois.edu/~elkishk2/. More details about the algorithm and the authors can be found in 
 
+```
 @inproceedings{conf/vldb/ElkishkySWVH13,
   author    = {Ahmed El-Kishky and
 		Yanglei Song and
@@ -12,6 +13,7 @@ This repo contains a wrapper for the Java implementation of the TopMine algorith
   booktitle = {VLDB},
   year      = {2015},
 }
+```
 
 If you use any contents in this package, please cite the above paper as your reference.
 
