@@ -1,0 +1,950 @@
+67 759	medical images
+177 176	study comparing
+759 1119	image segmentation
+97 81	system based
+329 330	document retrieval
+533 177	empirical study
+113 112	engineering software
+1307 1431	named entity
+363 29	order logic
+658 7	kernel learning
+548 108 1185	conditional random fields
+3128 4302	proceedings acm
+401 600	parallel massive
+222 97	management system
+2056 623	short text
+24 187	knowledge domains
+2051 361	warehouse data
+174 330 97	information retrieval system
+105 100	optimizing queries
+772 1223	preserving privacy
+7 271	learning reinforcement
+499 174	personal information
+1172 7	unsupervised learning
+758 1632 361	international conference data
+796 97	recommender systems
+222 35 97	managers database systems
+361 81	data base
+361 81 222	data base management
+567 92	combinatorial auctions
+1407 35 97	objectoriented database systems
+35 1407	databases objectoriented
+441 2012 361	time series data
+1955 1462	naive bayes
+212 187	adaptive domain
+1508 671	partite graph
+4296 80	poster abstract
+411 33 350	latent semantic indexing
+586 35 97	distributed database systems
+4614 1632	pacificasia conference
+580 62	topic models
+900 17	sentiment classification
+52 878	functional dependencies
+473 402	bayesian inference
+62 1059	model graphical
+24 77 361	knowledge discovery data
+1114 486	relevance judgments
+275 1119	motion segmentation
+304 30	recognition actions
+361 310	data noisy
+927 165	ensemble clustering
+82 935	analysis link
+100 2352	queries sql
+362 361	source data
+0 167	automatic generation
+807 61	moving objects
+426 350	efficient indexing
+97 86	systems dynamic
+416 935	predicting links
+527 108 1185	markov random fields
+7 299	learning metrics
+211 1807	search keyword
+2124 7	multitask learning
+360 658 7	multiple kernel learning
+606 1195	shape priors
+100 26	query language
+1431 43	entity resolution
+30 304	action recognition
+621 578	labeling sequence
+207 819	approach unifying
+139 506 5	constraint satisfaction problems
+100 2368	query suggestion
+1405 350	author index
+523 524	gene expression
+222 361 81	management predicatecalculusoriented data base
+927 357	ensemble classifiers
+363 53	ordering partially
+0 119	automatic extraction
+1644 361	streaming data
+77 24	discovery knowledge
+2517 100	skyline queries
+1002 316	traffic network
+796 463	recommendation social
+1502 174	mutual information
+127 208	reasoning variablestrength defaults
+78 114	web applications
+445 26 250	natural language processing
+971 35	deductive databases
+299 7	metric learning
+353 360	tracking multiple
+1917 1340	gaussian mixture
+100 31	query results
+968 1765	coding sparse
+28 29	description logics
+586 361	distributed data
+26 62	language models
+334 1673	world wide
+1323 161	duplicate detection
+219 498	algorithms approximate
+219 256	algorithm genetic
+1043 258	research development
+275 157	motion structure
+473 7	bayesian learning
+7 1186	learning instance
+473 207	bayesian approach
+100 2147	query rewriting
+361 1014	data categorization
+1155 161	community detection
+1717 100	logs query
+29 206	logic programming
+586 100 250	distributed query processing
+53 233	partially observable
+1489 406	arc consistency
+806 275	captured motions
+29 208	logic defaults
+31 100	results query
+673 760	large scale
+77 1012	discovery patterns
+77 3432	discovery subgroups
+361 1004	data sharing
+161 1323	detecting duplicates
+382 623	mining text
+171 29	inductive logic
+245 992	mobile devices
+1965 361	multidimensional data
+174 362	information sources
+35 97 222	database systems managing
+119 267	extracting features
+2517 372	skyline computation
+174 119	information extraction
+81 222 97	base management system
+211 555	searching similarities
+2559 211	sponsored search
+146 463	tags social
+507 7	transfer learning
+8 239	theory practice
+735 246	vector machines
+361 1236	data missing
+79 137	planning multiagent
+175 174	filtering information
+46 424	general framework
+353 61	tracking objects
+524 523	expressed gene
+250 1917	processes gaussian
+329 165	document clustering
+1082 575	distance measure
+281 533	comparison empirical
+1420 175	spam filtering
+100 74	query evaluation
+35 222	database management
+382 2228	mining itemset
+3 890	methods access
+382 2227	mining frequent
+330 623	retrieval text
+522 1012	emerging patterns
+164 1194	dimensionality reduction
+106 107	probability estimation
+1420 161	spam detection
+17 623	classification text
+329 157	document structure
+7 440	learning online
+267 832	feature selection
+596 326	schemas conceptual
+361 157	data structures
+7 219	learning algorithm
+47 211	heuristic search
+1917 250	gaussian process
+76 131	service composition
+654 690	maintenance views
+360 1186 7	multiple instance learning
+1236 361	missing data
+100 50	queries recursive
+176 177	comparative study
+361 164	data dimensionality
+1429 671	cut graph
+271 7	reinforcement learning
+172 753	user interests
+112 113	software engineering
+110 1012	tree pattern
+1012 382	pattern mining
+26 206	language programming
+110 109	tree decision
+362 174	source information
+211 113	search engine
+161 1155	detecting communities
+2443 361	highdimensional data
+382 1187	mining association
+31 78 211	results web search
+97 35	systems databases
+382 219	mining algorithms
+62 1872	modeling deformable
+246 993	machine translation
+382 2227 1012	mining frequent patterns
+758 3327	international workshop
+206 26	programming language
+275 107	motion estimation
+174 330	information retrieval
+2251 97	multidatabase systems
+411 412	latent variable
+97 222	system managing
+33 350	semantic indexing
+174 330 62	information retrieval model
+623 2056	texts short
+62 1626	models appearance
+7 473	learning bayesian
+211 2239	searches neighbors
+1205 1752	maximum margin
+575 555	measuring similarity
+1119 759	segmentation images
+527 62 695	markov models hidden
+2256 555	joins similarity
+365 80	extended abstract
+361 382	data mining
+49 361 81	relational data base
+1012 110	pattern tree
+62 174 330	model information retrieval
+24 1	knowledge acquisition
+361 586	data distribution
+248 2203	display advertising
+61 235	object class
+147 455	sense disambiguation
+405 211	local search
+2121 373	multiview stereo
+899 1148	resource allocation
+555 211	similarity search
+690 360	views multiple
+145 608	active contours
+1148 899	allocation resources
+929 100	path queries
+2301 49	nested relational
+7 246	learning machines
+2337 2239 100	nearest neighbor queries
+1800 481	file organization
+481 1800	organized file
+7 1570	learning manifold
+987 1142	linear discriminant
+361 1644	data streams
+219 426	algorithm efficient
+344 62	human model
+361 362	data sources
+139 506	constraint satisfaction
+75 35	technology database
+165 927	clustering ensembles
+460 2154	digital libraries
+299 42	metric spaces
+206 256	programming genetic
+97 361 222	system data management
+137 79	multiagent planning
+109 250	decision processes
+382 91 1012	mining sequential patterns
+576 180	finding experts
+178 890	controlled access
+97 251	system product
+975 976	nonnegative matrix
+515 61	complex objects
+81 222	base management
+1737 7	dictionary learning
+270 165	hierarchical clustering
+35 2281	database replication
+1012 522	patterns emerging
+527 62	markov models
+222 1832	manager workflow
+165 270	clustering hierarchical
+26 250	language processing
+586 35	distributed database
+173 172	profiles user
+78 76 131	web service composition
+2041 78	pages web
+24 25	knowledge representation
+1592 250	business process
+1431 304	entity recognition
+713 334	real world
+809 437	answer set
+81 207	based approach
+1012 77	pattern discovery
+445 759	natural images
+759 578	image sequences
+137 97	multiagent systems
+499 78 211	personalized web search
+35 586 97	databases distributed systems
+759 330	image retrieval
+1953 652	principal component
+2295 361	cubes data
+33 105 100	semantics optimize queries
+2239 100	neighbor queries
+1014 361	categorical data
+2271 2256	hash join
+303 144	design implementation
+251 97	production systems
+347 629	interactive visualization
+1012 304	pattern recognition
+56 759	annotation images
+324 7	semisupervised learning
+3327 1424	workshop summary
+842 100	conjunctive queries
+97 49 35	system relational database
+1570 7	manifold learning
+2352 100	sql queries
+97 174 330	system information retrieval
+1632 883 318	conference artificial intelligence
+208 29	default logic
+2243 184	load balancing
+596 34	schema mappings
+172 553	user preferences
+559 178	concurrency control
+766 78	deep web
+673 361 437	large data sets
+81 97	base systems
+17 759	classification image
+673 361 81	large data bases
+304 1215	recognition face
+157 350	structure indexes
+100 1717	query logs
+613 976	factor matrix
+1932 161	outlier detection
+119 174	extract information
+247 171	constructive induction
+174 175	information filtering
+7 1082 299	learning distance metric
+588 316	sensor networks
+690 1672	view materialization
+3128 450	proceedings part
+157 361	structured data
+1509 17	multilabel classification
+382 1187 199	mining association rules
+49 35 97	relational database system
+673 1752	large margin
+507 24	transference knowledge
+100 993	query translation
+3034 3128	march proceedings
+467 426	effective efficient
+49 659	relational algebra
+289 810	test collections
+481 34	organizing maps
+890 178	access control
+82 284	analysis performance
+761 147	word sense
+374 372	vision computing
+832 107	selectivity estimation
+214 360	combining multiple
+1872 62	deformable models
+1162 759 330	contentbased image retrieval
+165 2475	clusters subspaces
+7 658	learning kernel
+7 1737	learned dictionaries
+239 8	practice theory
+74 100	evaluation query
+1004 361	shared data
+211 2337 2239	search nearest neighbor
+987 1142 82	linear discriminant analysis
+393 26	interfaces language
+250 445 26	processing natural language
+424 46	framework general
+304 145	recognition active
+78 211 499	web search personalization
+578 621	sequence labeling
+508 654	incremental maintenance
+619 161	event detection
+174 97	information systems
+418 175	collaborative filtering
+52 498	function approximation
+623 17	text classification
+1153 293	term weighting
+329 1114	document relevance
+2202 671	bipartite graph
+62 410	modeling causal
+695 527 62	hidden markov models
+1142 82	discriminant analysis
+17 1509	classification multilabeled
+174 24 222	information knowledge management
+24 222	knowledge management
+100 369	queries aggregates
+410 62	causal models
+267 42	feature space
+440 7	online learning
+157 329	structured documents
+250 426	processing efficient
+1187 382	association mining
+578 619	sequenced event
+127 98	reasoning casebased
+2227 1012	frequent pattern
+1962 373	photometric stereo
+933 1194	dimension reduction
+1967 673	datasets large
+215 596	matching schemas
+100 396	query formulation
+2337 2239	nearest neighbor
+24 81	knowledge bases
+186 164	high dimensional
+250 1592	processing business
+1467 409	logistic regression
+165 219	clustering algorithm
+78 76	web services
+1114 1053	relevance feedback
+673 1967	large datasets
+361 27	data integration
+275 806	motion capture
+2297 100	xpath queries
+350 426	indexes efficient
+245 11	mobile robot
+350 1405	index authors
+127 72	reasoning spatial
+100 393	query interfaces
+127 70	reasoning qualitative
+1215 304	face recognition
+3493 2352 1154	microsoft sql server
+211 31	search results
+473 357	bayesian classifiers
+171 29 206	inductive logic programming
+411 33 82	latent semantic analysis
+492 228	speech understanding
+161 626	detecting anomalies
+107 832	estimating selectivity
+172 393	user interface
+2281 361	replicated data
+40 5	solving problems
+211 47	search heuristics
+284 782	performance improvements
+1303 361	uncertain data
+1012 382 2227	pattern mining frequent
+293 1153	weighting term
+82 1142	analysis discriminative
+822 437	rough set
+246 7	machine learning
+161 619	detecting events
+171 110	induction trees
+457 759	range images
+361 49	data relational
+72 2256	spatial joins
+24 77	knowledge discovery
+527 29	markov logic
+1493 425	lower bound
+1090 809	question answering
+172 379	user behavior
+2227 2228 382	frequent itemset mining
+61 807	objects moving
+516 105	globally optimal
+931 2198	video surveillance
+172 173	user profiles
+72 361	spatial data
+109 110 171	decision tree induction
+549 29	modal logic
+304 61	recognition d objects
+328 35	multimedia databases
+114 361 382	applications data mining
+623 444	text summarization
+411 412 62	latent variable models
+72 127	spatial reasoning
+81 24	base knowledge
+24 54	knowledge compilation
+330 174	retrieval information
+361 2051	data warehouse
+673 361	large data
+100 105	query optimization
+361 2295	data cubes
+165 490	clustering spectral
+441 713	times real
+91 1012 382	sequential pattern mining
+211 78	search web
+402 388	inference probabilistic
+527 109 250	markov decision processes
+372 374	computer vision
+3432 77	subgroup discovery
+1626 62	appearance models
+690 654	view maintenance
+4577 4336 1632	ecml th european conference
+2147 100	rewriting queries
+361 2281	data replication
+1194 164	reduction dimensional
+441 2012	time series
+434 207	hybrid approach
+256 206	genetic programming
+7 145	learning activity
+215 1805	match subsequence
+4336 1632	european conference
+1012 372 374	patterns computer vision
+1765 25	sparse representation
+62 126	models statistical
+796 146	recommend tags
+1082 299	distance metric
+426 219	efficient algorithm
+4556 4533	june ft collins usa
+369 100	aggregate queries
+100 2217	querying xml
+91 1012	sequential patterns
+2511 361	unlabeled data
+250 1644	processing stream
+1187 199	association rules
+714 2227	closed frequent
+372 2517	computation skylines
+167 62	generative model
+108 1185	random fields
+211 499	search personalization
+360 658	multiple kernel
+426 467	efficient effective
+1807 211	keyword search
+199 382	rule mining
+671 1429	graph cuts
+440 463 316	online social networks
+382 714	mining closed
+969 17	multiclass classification
+54 24	compiling knowledge
+361 437	data sets
+361 81 49	data base relational
+1350 1334	calibration camera
+4336 1632 4577	european conference ecml
+161 353	detection tracking
+473 2695	bayesian nonparametric
+361 673	data large
+78 499	web personalization
+78 255	web sites
+455 761 147	disambiguate word senses
+222 2268	managing buffer
+150 735	support vector
+361 1166	data exchange
+498 52	approximate functional
+61 304	object recognition
+361 2012	data series
+62 344	model human
+1613 107	density estimation
+62 580	models topic
+235 61	classes objects
+441 681	time polynomial
+186 164 361	high dimensional data
+1 24	acquisition knowledge
+307 109	make rentbuy decisions
+706 2203	contextual advertising
+303 35	design database
+33 100 105	semantic query optimization
+171 199	inductive rule
+441 2452	time warping
+361 890	data access
+1729 929	shortest path
+2695 473	nonparametric bayesian
+819 424	unified framework
+20 1775	concept drift
+2535 225	main memory
+2198 931	surveillance video
+595 219	fast algorithms
+250 26	processing language
+29 549	logics modal
+161 333	detecting change
+956 957	preliminary report
+782 284	improving performance
+219 165	algorithm clustering
+86 97	dynamical systems
+161 1420	detecting spam
+199 1187	rules associative
+361 2234	data warehousing
+35 303	database design
+2228 382	itemset mining
+35 24 77	databases knowledge discovery
+426 250	efficient processing
+62 1340	modeling mixtures
+7 2124	learning multitask
+83 425	error bounds
+145 7	active learning
+165 81	clustering based
+334 1673 78	world wide web
+374 97	vision system
+113 211	engine topx search
+131 76	composite services
+1436 316	road networks
+61 515	objects complex
+208 127	default reasoning
+819 207	unified approach
+357 927	classifier ensembles
+491 100	continuous queries
+463 1987	social media
+78 33	web semantic
+53 363	partially ordered
+219 382	algorithm mining
+70 127	qualitative reasoning
+76 78	services web
+1114 329	relevant documents
+457 100	range queries
+445 26 393	natural language interface
+78 211	web search
+1126 441 2012	multivariate time series
+533 281	empirical comparison
+330 329	retrieval document
+46 335	general game
+473 316	bayesian networks
+935 82	link analysis
+673 35	large databases
+619 578	event sequences
+0 247	automatic construction
+761 147 455	word sense disambiguation
+361 2217	data xml
+256 219	genetic algorithms
+24 174 222	knowledge information management
+758 1632	international conference
+62 411 412	modeling latent variable
+576 219	finding algorithm
+1926 1611	transitive closure
+325 24	background knowledge
+219 595	algorithm fast
+145 304	activity recognition
+1289 2337 2239	reverse nearest neighbor
+48 151	theorem proving
+2352 1154	sql server
+333 161	change detection
+360 1186	multiple instance
+555 2256	similarity joins
+61 161	object detection
+681 441	polynomial time
+695 527	hidden markov
+236 165	means clustering
+2227 714	frequent closed
+241 174	heterogeneous information
+364 79	temporal planning
+556 557	record linkage
+318 883	intelligence artificial
+35 586	databases distributed
+382 1012	mining patterns
+62 26	modeling language
+2252 174	crosslanguage information
+332 336	belief propagation
+499 211	personalized search
+127 364	reasoning temporal
+596 215	schema matching
+100 1528	query reformulation
+883 318 1632	artificial intelligence conference
+100 809	query answering
+1644 250	stream processing
+353 629	tracking visual
+629 347	visual interactive
+219 576	algorithm finding
+303 311	design mechanical
+935 416	link prediction
+1775 20	drifting concepts
+1334 1350	camera calibration
+623 1014	text categorization
+1407 35	objectoriented database
+78 211 31	web search results
+330 759	retrieval images
+311 303	mechanism design
+361 2660	data publishing
+222 2096	management transaction
+548 108	conditional random
+7 324	learning semisupervised
+344 2691	human pose
+49 2301	relations nested
+298 331	normal form
+1205 1206	maximum entropy
+1844 361	microarray data
+174 222	information management
+759 1093	image registration
+107 275	estimation motion
+629 353	visual tracking
+180 97	expert system
+107 2691	estimating anthropometry pose
+1012 215	pattern matching
+1090 809 1155	question answer communities
+890 361	access data
+502 832	subset selection
+606 667	shape shading
+27 139	integrity constraints
+97 330	system retrieval
+1329 2361	news articles
+382 2227 2228	mining frequent itemsets
+1155 1090 809	community question answering
+2263 350	inverted index
+527 316	markov networks
+498 219	approximation algorithms
+219 7	algorithm learning
+919 920	invited talk
+146 796	tag recommendation
+440 463	online social
+199 171	rule induction
+361 1303	data uncertain
+976 613	matrix factorization
+523 524 361	gene expression data
+62 167	model generation
+27 361	integrating data
+299 1082	metric distance
+7 356	learning supervised
+388 62	probabilistic models
+2337 2239 211	nearest neighbor search
+732 733	optical flow
+2243 2340	load shedding
+2217 1644	xml streams
+361 222	data management
+382 361	mining data
+1543 2285	ad hoc
+97 796	system recommending
+361 81 97	data base systems
+61 353	object tracking
+527 1122	markov chain
+1687 1945	sliding windows
+425 83	bounded error
+284 82	performance analysis
+98 127	casebased reasoning
+555 575	similarity measure
+490 165	spectral clustering
+2423 161	novelty detection
+883 318	artificial intelligence
+714 382	closed termset mining
+360 690	multiple views
+284 74	performance evaluation
+97 586 35	systems distributed databases
+332 550	belief revision
+100 1343	query expansion
+267 502	feature subset
+62 388	model probabilistic
+78 2041	web pages
+1857 316	peerpeer networks
+49 361	relational data
+332 316	belief networks
+1528 100	reformulating query
+527 108	markov random
+993 100	translating queries
+161 61	detecting object
+463 146	social tagging
+316 1002	network traffic
+114 78	application web
+1059 62	graphical models
+527 109	markov decision
+455 147	disambiguation redefining sense
+416 284	predicting performance
+326 596	conceptual schema
+1563 78	content web
+373 215	stereo matching
+187 212	domain adaptation
+405 516	local global
+97 361 81	system data base
+222 361	management data
+157 275	structure motion
+3347 250	dirichlet process
+388 207	probabilistic approach
+164 361	dimensional data
+24 507	knowledge transfer
+34 596	mappings schemas
+1424 3327	summary workshop
+759 445	image natural
+74 284	evaluating performance
+80 319	abstraction demonstration
+79 304	plan recognition
+1312 363	higher order
+316 408	networks neural
+1672 690	materialized views
+24 77 35	knowledge discovery databases
+809 437 206	answer set programming
+1182 174	incomplete information
+1119 275	segmentation d motion
+33 78	semantic web
+180 576	expert finding
+319 80	demonstration abstract
+109 150	decision support
+78 1717	web log
+759 457	images d range
+86 628	dynamic scenes
+219 2256	algorithms join
+26 100	language query
+351 177	case study
+344 30	human action
+713 441	real time
+178 559	control concurrency
+33 82	semantic analysis
+5 40	problem solving
+2228 2227	itemsets frequent
+961 206	synthesis programs
+151 48	proving theorems
+2660 361	publishing data
+277 593	surface reconstruction
+82 33	analysis semantic
+671 215	graph matching
+626 161	anomaly detection
+975 976 613	nonnegative matrix factorization
+2256 219	join algorithms
+1082 299 7	distance metric learning
+254 147	remote sensing
+760 673	scaling large
+2239 211	neighbor search
+207 388	approaches probabilistic
+3128 758	proceedings th international
+809 1090	answering questions
+330 97	retrieval system
+350 157	index structure
+177 533	study empirical
+7 507	learning transfer
+33 56	semantic annotation
+1581 759	single image
+890 3	access methods
+310 361	noisy data
+2217 100	xml query
+329 810	document collections
+97 174	system information
+361 441 2012	data time series
+388 402	probabilistic inference
+863 1563	table contents
+316 1436	network road
+2475 165	subspace clustering
+2691 107	pose estimation
+211 113 78	search engine web
+2217 329	xml documents
+994 175	particle filtering
+222 174	management information
+78 211 113	web search engines
+211 405	search local
+97 180	system muvis expert
+477 976 613	negative matrix factorization
+139 336	constraint propagation
+7 473 316	learning bayesian networks
+207 81	approach based
+237 177	experimental study
+2217 361	xml data
+100 250 586	query processing distributed
+1633 444	multidocument summarization
+81 361	based data
+72 35	spatial databases
+110 171	tree induction
+527 29 316	markov logic networks
+929 79	path planning
+3128 758 1632	proceedings th international conference
+267 119	feature extraction
+107 106	estimating probability
+810 329	collection documents
+336 139	propagator interdistance constraint
+382 199	mining rules
+1187 199 382	association rule mining
+329 78	documents web
+1162 330 759	contentbased retrieval images
+444 623	summarizing text
+809 100	answering queries
+126 62	statistical models
+534 524	regular expressions
+2227 1012 382	frequent pattern mining
+79 128	planning execution
+1162 759	contentbased image
+79 364	planning temporally
+2217 596	xml schema
+364 708	temporal difference
+96 369	rank aggregation
+86 206	dynamic programming
+105 516	optimal global
+623 382	text mining
+78 329	web documents
+357 623	classifiers text
+4581 3128	september proceedings
+128 79	execution plans
+2274 361	semistructured data
+1223 772	privacy preserving
+488 491	discretization continuous
+759 56	image annotation
+4533 4584	usa august
+222 24	management knowledge
+78 1563	web content
+463 796	social recommendation
+62 527	models markov
+364 127	temporal reasoning
+411 33	latent semantic
+49 35	relational databases
+463 316	social networks
+335 1439	game playing
+1765 968	sparse coding
+100 491	querying continuous
+353 161	tracking detection
+100 250	query processing
+473 316 7	bayesian network learning
+445 26	natural language
+361 1903	data cleaning
+4533 4556	usa june
+2227 2228	frequent itemsets
+437 361	sets data
+673 671	large graphs
+150 109	supporting slabased decisions
+186 284	high performance
+596 2217	schemas xml
+81 165	based clustering
+3859 1053	pseudorelevance feedback
+402 473	inference bayesian
+161 1932	detecting outliers
+369 96	aggregations ranked
+832 267	select features
+2096 222	transaction management
+987 441	linear time
+516 405	global local
+408 316	neural networks
+344 275	human motion
+361 382 114	data mining applications
+411 3347	latent dirichlet
+171 109 110	induction decision trees
+109 307	decision making
+987 206	linear programming
+578 759	sequence images
+477 976	negative matrix
+222 35	management database
+4571 3128	april proceedings
+35 97	database systems
+1805 215	subsequence matching
+165 329	clustering documents
+900 82	sentiment analysis
+250 100	processing queries
+299 7 1082	metric learning distance
+2419 524	facial expression
+2452 441	warping time
+759 17	image classification
+284 416	performance prediction
+1953 652 82	principal component analysis
+1014 623	categorization text
+206 961	program synthesis
+623 357	text classifiers
+131 78 76	composition web services
+262 1304	situation calculus
+1644 2217	streaming xml
+150 735 246	support vector machines
+1166 361	exchange data
+350 33	indexing semantic
+35 75	database technology
+35 222 97	database management systems
+187 24	domain knowledge
+7 96	learning rank
+652 82	component analysis
+109 110	decision trees
+25 13	representations state
+50 100	recursive queries
+215 671	matching graph
+13 25	state representations
+1402 437	training set
+356 7	supervised learning
+222 81	management based
+671 1508	graph partitioning
+623 329	text documents
+926 161	intrusion detection
+499 78	personalized web
+1832 222	workflow management
+1368 1053	implicit feedback
+2252 174 330	crosslanguage information retrieval
+272 273	monte carlo
+2281 35	replicated databases
+393 100	interface querying
+1186 7	instance learning
+735 42	vector space
+35 49	database relations
+25 24	representation knowledge
+600 401	massively parallel
+623 330	text retrieval
+3493 2352	microsoft sql
+361 917	data fusion
+2268 222	buffer management
+1439 335	playing games
+1432 1926	phase transitions
+316 463	network social
+534 929	regular path
+96 7	rank learning
+329 623	documents text
+1340 62	mixture models
+2096 250	transaction processing
+492 304	speech recognition
+108 1539	random walks
