@@ -23,12 +23,12 @@ The Java scripts have been modified to accept spanish and english corpora. Hence
 
 Note: this implementation will only work in Windows. Changes to the .bash file in http://web.engr.illinois.edu/~elkishk2/ must me carried out if using in different OS.
 
-### Using TopMine
+## Using TopMine
 
 The complete repository must copied in order to use the algorithm. It contains most of the files provided by the authors.
 
 
-#### Running the algorithm
+### Running the algorithm
 
 ```r
 topic <- topmine(path, numTopics, minsup, par_lst)
@@ -51,7 +51,7 @@ par_lst = list with more parameters for the algorithm:
 
 `topmine` returns a dataframe with all `numTopics` topics ordered in columns.
 
-#### Reading output files
+### Reading output files
 
 The implementation by El-Kishky writes several txt files with the results of running the algorithm. Such are located in TopMine/output/outputFiles/:
 
@@ -60,7 +60,7 @@ The implementation by El-Kishky writes several txt files with the results of run
 * **topics.txt**: topics to all documents.
 * **corpus.txt**: tidy documents.
 
-## Example
+### Example
 
 ```r
 #Path to corpus
