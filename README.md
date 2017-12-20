@@ -38,7 +38,13 @@ taking arguments:
 path = path to txt file containing the corpus
 numTopics = number of topics
 minsup = minimum support
-par_lst = list with more parameters for the algorithm: thres (significance threshold) default to 4; maxPattern (maximum length of the pattern) default to 3; gibbsSamplingIterations (Number of Gibbs sampling iteration) default to 1000; lang (language of the text- "en" or "es") defailt to "en"; optimizationBurnIn (optimization burn in iterations) default to 5; alpha (algorithm parameter) default to 2.
+par_lst = list with more parameters for the algorithm: 
+	thres (significance threshold) default to 4; 
+	maxPattern (maximum length of the pattern) default to 3; 
+	gibbsSamplingIterations (Number of Gibbs sampling iteration) default to 1000; 
+	lang (language of the text- "en" or "es") default to "en"; 
+	optimizationBurnIn (optimization burn in iterations) default to 5; 
+	alpha (algorithm parameter) default to 2.
 ```
 
 `topmine` returns a dataframe with all `numTopics` topics ordered in columns.
